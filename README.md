@@ -1,5 +1,4 @@
-# TimerRunner — 用 Shizuku 跑 CVE-2026-98260 timer
-
+# 这他妈是个PURE VIBE CODING,use with your own risk
 一个**最小示例** Android App：用 Shizuku 的 **UserService** 以 `uid 2000 / u:r:shell:s0`
 身份运行 [`../zjns-98260`](../zjns-98260) 里的 `timer/timer13`。
 
