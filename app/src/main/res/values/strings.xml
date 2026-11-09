@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimerRunner</string>
+
+    <string-array name="ksu_managers">
+        <item>KernelSU（me.weishu.kernelsu）</item>
+        <item>SukiSU / SukiSU Ultra（com.sukisu.ultra）</item>
+        <item>BakaSU / ReSukiSU（com.resukisu.resukisu）</item>
+    </string-array>
+</resources>
